@@ -1,1 +1,0 @@
-install/reddit.sh
